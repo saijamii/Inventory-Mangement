@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Royal-Enterprises/static/css/main.073c9b0a.css",
+    "main.js": "/Royal-Enterprises/static/js/main.1e2e3c10.js",
+    "static/js/787.1ef04fba.chunk.js": "/Royal-Enterprises/static/js/787.1ef04fba.chunk.js",
+    "static/media/logo.svg": "/Royal-Enterprises/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Royal-Enterprises/index.html",
+    "main.073c9b0a.css.map": "/Royal-Enterprises/static/css/main.073c9b0a.css.map",
+    "main.1e2e3c10.js.map": "/Royal-Enterprises/static/js/main.1e2e3c10.js.map",
+    "787.1ef04fba.chunk.js.map": "/Royal-Enterprises/static/js/787.1ef04fba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1e2e3c10.js"
+  ]
+}
